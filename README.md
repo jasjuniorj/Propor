@@ -5,3 +5,5 @@ ilustrando etapa a etapa do processo criativo de uma política pública.
 
 No momento apenas a etapa de formulação está com perguntas, conceitos e alguns exemplos definidos.
 Interessados em colaborar, por favor, se apresentem.
+
+Versão provisória: http://posbanca.shinyapps.io/politscrim
