@@ -1,0 +1,13 @@
+name: politscrim
+title: politscrim
+username:
+account: homal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10628680
+bundleId: 8168322
+url: https://posbanca.shinyapps.io/politscrim/
+when: 1705869333.41724
+lastSyncTime: 1705869333.41726
+asMultiple: FALSE
+asStatic: FALSE
